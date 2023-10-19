@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\страница 41 номер 1\bin\Debug\net6.0\страница 41 номер 1.exe
+C:\Users\Admin\source\repos\страница 41 номер 1\bin\Debug\net6.0\страница 41 номер 1.deps.json
+C:\Users\Admin\source\repos\страница 41 номер 1\bin\Debug\net6.0\страница 41 номер 1.runtimeconfig.json
+C:\Users\Admin\source\repos\страница 41 номер 1\bin\Debug\net6.0\страница 41 номер 1.dll
+C:\Users\Admin\source\repos\страница 41 номер 1\bin\Debug\net6.0\страница 41 номер 1.pdb
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.dll
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\refint\страница 41 номер 1.dll
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.pdb
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\страница 41 номер 1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\страница 41 номер 1\obj\Debug\net6.0\ref\страница 41 номер 1.dll

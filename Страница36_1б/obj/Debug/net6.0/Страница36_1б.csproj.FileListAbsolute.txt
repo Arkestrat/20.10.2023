@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Страница36_1б\bin\Debug\net6.0\Страница36_1б.exe
+C:\Users\Admin\source\repos\Страница36_1б\bin\Debug\net6.0\Страница36_1б.deps.json
+C:\Users\Admin\source\repos\Страница36_1б\bin\Debug\net6.0\Страница36_1б.runtimeconfig.json
+C:\Users\Admin\source\repos\Страница36_1б\bin\Debug\net6.0\Страница36_1б.dll
+C:\Users\Admin\source\repos\Страница36_1б\bin\Debug\net6.0\Страница36_1б.pdb
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.dll
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\refint\Страница36_1б.dll
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.pdb
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\Страница36_1б.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Страница36_1б\obj\Debug\net6.0\ref\Страница36_1б.dll
